@@ -2,7 +2,7 @@
 <br>
 
 ### Here's my github stats
-https://github-readme-stats.vercel.app/api?username=Hanamiii&show_icons=true&theme=dracula
+[![my stats](https://github-readme-stats.vercel.app/api?username=Hanamiii&show_icons=true&theme=dracula)]
 
 
 <!--
