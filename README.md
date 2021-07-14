@@ -3,7 +3,7 @@ Hi! My name is Refal Falah. I'm just a student who wants to be a programmer. Not
 <br/>
 <div align="center">
 <a href="https://instagram.com/refalfalah_?utm_medium=copy_link">
-             <img src="https://media.discordapp.net/attachments/849114243534159922/864859552369475674/664xauto-mengapa-instagram-mengganti-ikonnya-160512q.jp" width="50px"="50px"style="border-radius: 50%;" />
+             <img src="https://media.discordapp.net/attachments/849114243534159922/864859552369475674/664xauto-mengapa-instagram-mengganti-ikonnya-160512q.jp" width="150px"="150px"style="border-radius: 50%;" />
          </a>
 <div/>
 <br/>
