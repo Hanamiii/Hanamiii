@@ -2,8 +2,7 @@
 <br>
 
 ### Here's my github stats
-[![my stats](https://github-readme-stats.vercel.app/api?username=Hanamiii&show_icons=true&theme=dracula)]
-
+![my stats](https://github-readme-stats.vercel.app/api?username=Hanamiii&show_icons=true&theme=dracula)
 
 <!--
 **Hanamiii/Hanamiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
