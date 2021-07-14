@@ -1,5 +1,6 @@
-### Hi there 👋 My name is Refal Falah
-<br>
+### Hi there 👋,I'm Refal Falah
+Hi! My name is Refal Falah. I'm just a student who wants to be a programmer. Nothing special on my github profile. 
+<br/>
 
 ### Here's my github stats
 ![my stats](https://github-readme-stats.vercel.app/api?username=Hanamiii&show_icons=true&theme=dracula)
